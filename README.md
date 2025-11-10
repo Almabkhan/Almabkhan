@@ -1,23 +1,29 @@
-👋 Hi, I'm Almab
-
-🔒+🛡️ AI Security | Ethical Hacker | SOC Automation | Threat Intelligence  
-🚀 Building Secure AI Systems | Real-Time Cyber Protection
+# Almab Khan 🔒
+**AI Security Specialist | Ethical Hacker | SOC Automation Engineer**  
+*Building Intelligent Defense Systems | Real-Time Threat Protection*
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Expertise
 - **Programming:** Python, JavaScript, Bash
-- **Security Tools:** Wireshark, Metasploit, Kali Linux
-- **AI & Automation:** RAG Integration, LLM APIs
-- **Development:** FastAPI, Docker, Git, Linux
+- **Security Tools:** Wireshark, Metasploit, Kali Linux, Burp Suite
+- **AI & Automation:** RAG Integration, LLM APIs, Prompt Engineering
+- **Development:** FastAPI, Docker, Git, Linux, CI/CD
 
-### 🚀 Projects
-- SOC AI Agents - 4 specialized security agents
-- Threat Intelligence Platform
-- Ethical Hacking Lab
-- Security Automation Framework
+---
 
-### 📫 Connect
-**GitHub:** https://github.com/Almabkhan
+## 🚀 Featured Projects
+- **SOC AI Agents Suite** - 4 specialized autonomous security agents
+- **Threat Intelligence Platform** - Real-time IOC analysis & correlation
+- **Ethical Hacking Lab** - Controlled penetration testing environment
+- **Security Automation Framework** - End-to-end defensive workflows
 
-*"AI + Security enthusiast - Always open to meaningful projects!"* 🔥
+---
+
+## 📫 Connect & Collaborate
+**GitHub:** https://github.com/Almabkhan  
+*"AI + Security enthusiast - Open to innovative projects and meaningful collaborations!"* 🔥
+
+---
+
+> *"Building the future of cybersecurity - one intelligent agent at a time."*
