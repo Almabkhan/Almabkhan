@@ -8,7 +8,7 @@
 - **Programming:** Python, JavaScript, Bash
 - **Security Tools:** Wireshark, Metasploit, Kali Linux, Burp Suite
 - **AI & Automation:** RAG Integration, LLM APIs, Prompt Engineering
-- **Development:** FastAPI, Docker, Git, Linux, CI/CD
+- **Development:** FastAPI, Docker, Git, Linux, 
 
 ---
 
